@@ -1,6 +1,6 @@
-# Starlight — SMO Base Project
+# FlyMod a mod for flying in Super mario odyssey
 
-This repo contains a base project that can be used to create code modifications for Super Mario Odyssey v1.0.0. It's main purpose is to give people a project that contains headers that can be used to more easily create mods that does more to the game than what can normally be done through romfs editing alone. it also contains example code to show how to do certain things within the starlight environment.
+This repo contains the code of the flymod
 
 ## Prerequisites
 
