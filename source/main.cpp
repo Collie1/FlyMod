@@ -9,7 +9,7 @@
 #include "cameras/CameraPoserCustom.h"
 #include "debugMenu.hpp"
 
-static bool showMenu = true;
+static bool showMenu = false;
 
 static bool isInGame = false;
 
